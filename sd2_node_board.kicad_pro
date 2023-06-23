@@ -320,6 +320,14 @@
     [
       "cf00e656-391b-4c1a-bb6f-97acc8a17315",
       ""
+    ],
+    [
+      "7cf69548-73ef-469e-9f8c-2879cc7db3c9",
+      "3.3v Regulator"
+    ],
+    [
+      "102c2c2b-95a6-4938-bd7a-50fc28fea95b",
+      "5v Regulator"
     ]
   ],
   "text_variables": {}
