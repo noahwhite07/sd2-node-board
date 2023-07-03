@@ -1,0 +1,41 @@
+Source:,D:\Program Files\KiCad_6\projects\sd2_node_board\sd2_node_board.kicad_sch,,,,,
+Date:,6/29/2023 14:43,,,,,
+Tool:,Eeschema (6.0.10),,,,,
+Generator:,D:\Program Files\KiCad_6\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,
+Component Count:,45,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,Link,Added,Checked
+1,2,"C1, C4",0.1uF,,y,Y
+2,2,"C2, C3",47pF,,y,Y
+3,4,"C5, C6, C11, C12",10uF,,y,y
+4,3,"C7, C8, C13",100nF,,y,Y
+5,2,"C9, C10",22uF,,y,y
+6,1,C14,47uF,,y,y
+7,1,D1,YELLOW,,y,y
+8,1,D2,RED,,y,y
+9,1,J1,CON-SOCJ-2155,,y,y
+10,1,J2,USB_B_Micro,,y,y
+11,1,J3,S1,,y,y
+12,1,J4,S2,,y,y
+13,1,J5,Indicator,,y,y
+14,1,J6,S3,,y,y
+15,1,J7,JTAG,,~,~
+16,1,J8,S4,,y,y
+17,2,"L1, L2",4.7uH,,y,y
+18,1,Q1,MBT3904DW1,,y,y
+19,5,"R1, R6, R7, R10, R12",10k,,y,y
+20,2,"R2, R5",330,,y,y
+21,3,"R3, R4, R8",27,,y,y
+22,1,R9,30.9k,,y,y
+23,1,R11,54.9k,,y,y
+24,1,SW1,SW_Push,,y,y
+25,1,U1,ESP32-WROOM-32,,y,y
+26,1,U2,XB3-24Z8CM-J,,y,y
+27,1,U3,FT231XS,,y,y
+28,1,U4,TPS56339DDC,,y,y
+29,1,U5,TPS561201DDCR,,y,
